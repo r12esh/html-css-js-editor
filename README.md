@@ -1,6 +1,5 @@
 # A Cope pen like code editor
-This editor was made using the codemirror library.
-Some advance css features may not work.
+This editor was made using the codemirror library. This is pretty much like codepen but not as polished.
 
 ## Try in your browser
 ### https://r12esh.github.io/html-css-js-editor/
